@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rebekah.downer@gmail.com**
 
-- 📄 Know about my experiences [resume.com](resume)
+- 📄 Know about my experiences : [resume](https://icy-ground-0987b3110.1.azurestaticapps.net/)
 
 
 <h3 align="left">Languages and Tools:</h3>
