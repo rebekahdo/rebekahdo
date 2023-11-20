@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rebekah</h1>
 <h3 align="center">A passionate software developer from Chicago</h3>
 
-- 🔭 I’m currently working on a **Book Collection Database**
+- 🔭 I’m currently working on a **Web Hosting Application**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio)
 
-- 📫 How to reach me **rebekah.downer@gmail.com**
+- 📫 You can reach me at **rebekah.downer@gmail.com**
 
-- 📄 Know about my experiences : [resume](https://icy-ground-0987b3110.1.azurestaticapps.net/)
+- 📄 Know about my expertise : [resume](https://icy-ground-0987b3110.1.azurestaticapps.net/)
 
 
 <h3 align="left">Languages and Tools:</h3>
